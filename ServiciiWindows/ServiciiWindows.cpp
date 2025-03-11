@@ -1,5 +1,5 @@
 ﻿// ServiciiWindows.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
+//Lab1 //EX1
 
 #define WIN32_LEAN_AND_MEAN
 #include <windows.h>
